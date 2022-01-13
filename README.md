@@ -9,3 +9,5 @@ https://www.securityweek.com/north-korean-hackers-are-back-targeting-banks
 https://www.theregister.com/2020/08/28/beagleboyz/
 
 https://therecord.media/north-korean-hackers-stole-nearly-400m-in-cryptocurrency-in-2021/
+
+https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/
