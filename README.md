@@ -7,3 +7,5 @@ https://media.kasperskycontenthub.com/wp-content/uploads/sites/31/2017/04/220704
 https://www.securityweek.com/north-korean-hackers-are-back-targeting-banks
 
 https://www.theregister.com/2020/08/28/beagleboyz/
+
+https://therecord.media/north-korean-hackers-stole-nearly-400m-in-cryptocurrency-in-2021/
