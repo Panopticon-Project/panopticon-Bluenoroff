@@ -11,3 +11,5 @@ https://www.theregister.com/2020/08/28/beagleboyz/
 https://therecord.media/north-korean-hackers-stole-nearly-400m-in-cryptocurrency-in-2021/
 
 https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/
+
+https://heimdalsecurity.com/blog/cryptocurrency-startups-targeted-by-the-bluenoroff-hacking-group/
